@@ -71,7 +71,7 @@ a{
     text-align: center;
     text-transform: uppercase;
 }
-.box {
+.box{
     display: inline-flex;
     justify-content: space-between;
     margin-left: 3%;
@@ -82,7 +82,7 @@ a{
 }
 .box-contenido{
     background:   #fdfefe  ;
-    flex: 0 0 800px;
+    flex: 0 0 1000px;
 }
 
 .linea{
