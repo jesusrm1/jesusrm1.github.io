@@ -81,9 +81,10 @@ a{
     flex: 0 0 230px;
 }
 .box-contenido{
+    padding:30px;
     background:   #fdfefe  ;
     flex: 0 0 1000px;
-    padding:30px;
+    
 }
 
 .linea{
